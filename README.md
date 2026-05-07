@@ -1,5 +1,5 @@
 # Code-Corner
-A collection of scripts born out of curiosity, downtime, and occasional bursts of chaos. No promises — just code.
+A collection of scripts born out of curiosity, downtime, and occasional bursts of chaos.
 
 # Pig Dice Game
 A simple terminal-based implementation of the classic Pig Dice game, written in Python. This version supports 1 to 4 players, with  bots filling in if needed. Includes a fun "Double or Nothing" gamble mechanic!
